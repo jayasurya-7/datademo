@@ -1,0 +1,24 @@
+01-11-2024 14:21:44 INFO    [welcome] [] [] Created PLUTO log file.
+01-11-2024 14:21:44 INFO    [welcome] [] [] welcome scene started.
+01-11-2024 14:21:50 INFO    [welcome] [] [] PLUTO button released.
+01-11-2024 14:21:50 INFO    [welcome] [] [] Switching to the next scene 'chooseMechanism'.
+01-11-2024 14:21:51 INFO    [chooseMechanism] [] [] chooseMechanism scene started.
+01-11-2024 14:21:56 INFO    [chooseMechanism] [] [] PLUTO button released.
+01-11-2024 14:21:58 INFO    [chooseMechanism] [] [] Selected 'HOC'.
+01-11-2024 14:21:59 INFO    [chooseMechanism] [] [] PLUTO button released.
+01-11-2024 14:21:59 INFO    [chooseMechanism] [] [] Switching scene to 'calibration'.
+01-11-2024 14:21:59 INFO    [calibration] [] [] calibration scene started.
+01-11-2024 14:22:01 INFO    [calibration] [] [] PLUTO button released.
+01-11-2024 14:22:04 INFO    [calibration] [] [] Switching scene to 'choosegame'.
+01-11-2024 14:22:05 INFO    [choosegame] [] [] choosegame scene started.
+01-11-2024 14:22:07 INFO    [choosegame] [] [] Selected game 'pingPong'.
+01-11-2024 14:22:08 INFO    [choosegame] [] [] PLUTO button released.
+01-11-2024 14:22:12 INFO    [choosegame] [] [] PLUTO button released.
+01-11-2024 14:22:13 INFO    [choosegame] [] [] PLUTO button released.
+01-11-2024 14:22:27 INFO    [choosegame] [] [] choosegame scene started.
+01-11-2024 14:22:30 INFO    [chooseMechanism] [] [] chooseMechanism scene started.
+01-11-2024 14:22:31 INFO    [chooseMechanism] [] [] Selected 'WURD'.
+01-11-2024 14:22:33 INFO    [chooseMechanism] [] [] Switching scene to 'calibration'.
+01-11-2024 14:22:33 INFO    [calibration] [] [] calibration scene started.
+01-11-2024 14:22:35 INFO    [chooseMechanism] [] [] chooseMechanism scene started.
+01-11-2024 14:22:40 INFO    [chooseMechanism] [] [] PLUTO button released.

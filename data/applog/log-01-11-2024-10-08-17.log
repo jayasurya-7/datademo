@@ -1,0 +1,162 @@
+01-11-2024 10:08:17 INFO    [welcome] [] [] Created PLUTO log file.
+01-11-2024 10:08:17 INFO    [welcome] [] [] welcome scene started.
+01-11-2024 10:08:25 INFO    [welcome] [] [] PLUTO button released.
+01-11-2024 10:08:25 INFO    [welcome] [] [] Switching to the next scene 'chooseMechanism'.
+01-11-2024 10:08:26 INFO    [chooseMechanism] [] [] chooseMechanism scene started.
+01-11-2024 10:08:30 INFO    [chooseMechanism] [] [] Selected 'HOC'.
+01-11-2024 10:08:34 INFO    [chooseMechanism] [] [] Selected 'FME1'.
+01-11-2024 10:08:34 INFO    [chooseMechanism] [] [] Selected 'FME1'.
+01-11-2024 10:08:36 INFO    [chooseMechanism] [] [] Switching scene to 'calibration'.
+01-11-2024 10:08:36 INFO    [calibration] [] [] calibration scene started.
+01-11-2024 10:08:39 INFO    [chooseMechanism] [] [] chooseMechanism scene started.
+01-11-2024 10:08:41 INFO    [chooseMechanism] [] [] PLUTO button released.
+01-11-2024 10:08:46 INFO    [chooseMechanism] [] [] Selected 'HOC'.
+01-11-2024 10:08:48 INFO    [chooseMechanism] [] [] PLUTO button released.
+01-11-2024 10:08:48 INFO    [chooseMechanism] [] [] Switching scene to 'calibration'.
+01-11-2024 10:08:48 INFO    [calibration] [] [] calibration scene started.
+01-11-2024 10:08:51 INFO    [calibration] [] [] PLUTO button released.
+01-11-2024 10:08:55 INFO    [choosegame] [] [] choosegame scene started.
+01-11-2024 10:08:57 INFO    [choosegame] [] [] Selected game 'pingPong'.
+01-11-2024 10:09:00 INFO    [choosegame] [] [] PLUTO button released.
+01-11-2024 10:09:06 INFO    [choosegame] [] [] Selected game 'HOC'.
+01-11-2024 10:09:12 INFO    [choosegame] [] [] Selected game 'pingPong'.
+01-11-2024 10:09:14 INFO    [choosegame] [] [] PLUTO button released.
+01-11-2024 10:09:21 INFO    [choosegame] [] [] Selected game 'HOC'.
+01-11-2024 10:09:23 INFO    [choosegame] [] [] PLUTO button released.
+01-11-2024 10:09:26 INFO    [choosegame] [] [] PLUTO button released.
+01-11-2024 10:09:28 INFO    [choosegame] [] [] Selected game 'pingPong'.
+01-11-2024 10:09:30 INFO    [choosegame] [] [] PLUTO button released.
+01-11-2024 10:09:34 INFO    [chooseMechanism] [] [] chooseMechanism scene started.
+01-11-2024 10:09:35 INFO    [chooseMechanism] [] [] Selected 'WURD'.
+01-11-2024 10:09:37 INFO    [chooseMechanism] [] [] Selected 'WFE'.
+01-11-2024 10:09:37 INFO    [chooseMechanism] [] [] Selected 'WFE'.
+01-11-2024 10:09:39 INFO    [chooseMechanism] [] [] PLUTO button released.
+01-11-2024 10:09:39 INFO    [chooseMechanism] [] [] Switching scene to 'calibration'.
+01-11-2024 10:09:39 INFO    [calibration] [] [] calibration scene started.
+01-11-2024 10:09:42 INFO    [chooseMechanism] [] [] chooseMechanism scene started.
+01-11-2024 10:09:44 INFO    [chooseMechanism] [] [] PLUTO button released.
+01-11-2024 10:09:54 INFO    [chooseMechanism] [] [] Selected 'FPS'.
+01-11-2024 10:09:54 INFO    [chooseMechanism] [] [] Selected 'FPS'.
+01-11-2024 10:09:55 INFO    [chooseMechanism] [] [] Selected 'WURD'.
+01-11-2024 10:09:55 INFO    [chooseMechanism] [] [] Selected 'WURD'.
+01-11-2024 10:09:56 INFO    [chooseMechanism] [] [] PLUTO button released.
+01-11-2024 10:09:56 INFO    [chooseMechanism] [] [] Switching scene to 'calibration'.
+01-11-2024 10:09:57 INFO    [calibration] [] [] calibration scene started.
+01-11-2024 10:09:59 INFO    [chooseMechanism] [] [] chooseMechanism scene started.
+01-11-2024 10:10:01 INFO    [chooseMechanism] [] [] PLUTO button released.
+01-11-2024 10:10:06 INFO    [chooseMechanism] [] [] PLUTO button released.
+01-11-2024 10:10:09 INFO    [chooseMechanism] [] [] Selected 'HOC'.
+01-11-2024 10:10:10 INFO    [chooseMechanism] [] [] PLUTO button released.
+01-11-2024 10:10:10 INFO    [chooseMechanism] [] [] Switching scene to 'calibration'.
+01-11-2024 10:10:11 INFO    [calibration] [] [] calibration scene started.
+01-11-2024 10:10:13 INFO    [chooseMechanism] [] [] chooseMechanism scene started.
+01-11-2024 10:10:15 INFO    [chooseMechanism] [] [] Selected 'FME1'.
+01-11-2024 10:10:16 INFO    [chooseMechanism] [] [] PLUTO button released.
+01-11-2024 10:10:16 INFO    [chooseMechanism] [] [] Switching scene to 'calibration'.
+01-11-2024 10:10:17 INFO    [calibration] [] [] calibration scene started.
+01-11-2024 10:10:19 INFO    [chooseMechanism] [] [] chooseMechanism scene started.
+01-11-2024 10:10:23 INFO    [chooseMechanism] [] [] PLUTO button released.
+01-11-2024 10:10:26 INFO    [chooseMechanism] [] [] Selected 'FPS'.
+01-11-2024 10:10:26 INFO    [chooseMechanism] [] [] Selected 'FPS'.
+01-11-2024 10:10:28 INFO    [chooseMechanism] [] [] PLUTO button released.
+01-11-2024 10:10:28 INFO    [chooseMechanism] [] [] Switching scene to 'calibration'.
+01-11-2024 10:10:29 INFO    [calibration] [] [] calibration scene started.
+01-11-2024 10:10:32 INFO    [chooseMechanism] [] [] chooseMechanism scene started.
+01-11-2024 10:10:34 INFO    [chooseMechanism] [] [] Selected 'WURD'.
+01-11-2024 10:10:36 INFO    [chooseMechanism] [] [] PLUTO button released.
+01-11-2024 10:10:36 INFO    [chooseMechanism] [] [] Switching scene to 'calibration'.
+01-11-2024 10:10:36 INFO    [calibration] [] [] calibration scene started.
+01-11-2024 10:10:39 INFO    [chooseMechanism] [] [] chooseMechanism scene started.
+01-11-2024 10:10:43 INFO    [chooseMechanism] [] [] PLUTO button released.
+01-11-2024 10:10:48 INFO    [chooseMechanism] [] [] PLUTO button released.
+01-11-2024 10:10:51 INFO    [chooseMechanism] [] [] Selected 'HOC'.
+01-11-2024 10:10:51 INFO    [chooseMechanism] [] [] Selected 'HOC'.
+01-11-2024 10:10:52 INFO    [chooseMechanism] [] [] PLUTO button released.
+01-11-2024 10:10:52 INFO    [chooseMechanism] [] [] Switching scene to 'calibration'.
+01-11-2024 10:10:52 INFO    [calibration] [] [] calibration scene started.
+01-11-2024 10:10:55 INFO    [chooseMechanism] [] [] chooseMechanism scene started.
+01-11-2024 10:10:56 INFO    [chooseMechanism] [] [] Selected 'FME1'.
+01-11-2024 10:10:58 INFO    [chooseMechanism] [] [] PLUTO button released.
+01-11-2024 10:10:58 INFO    [chooseMechanism] [] [] Switching scene to 'calibration'.
+01-11-2024 10:10:59 INFO    [calibration] [] [] calibration scene started.
+01-11-2024 10:11:02 INFO    [chooseMechanism] [] [] chooseMechanism scene started.
+01-11-2024 10:11:05 INFO    [chooseMechanism] [] [] PLUTO button released.
+01-11-2024 10:11:13 INFO    [chooseMechanism] [] [] PLUTO button released.
+01-11-2024 10:11:17 INFO    [chooseMechanism] [] [] Selected 'FPS'.
+01-11-2024 10:11:20 INFO    [chooseMechanism] [] [] Switching scene to 'calibration'.
+01-11-2024 10:11:21 INFO    [calibration] [] [] calibration scene started.
+01-11-2024 10:11:23 INFO    [chooseMechanism] [] [] chooseMechanism scene started.
+01-11-2024 10:11:29 INFO    [chooseMechanism] [] [] Selected 'FME2'.
+01-11-2024 10:11:30 INFO    [chooseMechanism] [] [] Switching scene to 'calibration'.
+01-11-2024 10:11:31 INFO    [calibration] [] [] calibration scene started.
+01-11-2024 10:11:34 INFO    [chooseMechanism] [] [] chooseMechanism scene started.
+01-11-2024 10:11:41 INFO    [chooseMechanism] [] [] Selected 'WFE'.
+01-11-2024 10:11:41 INFO    [chooseMechanism] [] [] Selected 'WFE'.
+01-11-2024 10:11:42 INFO    [chooseMechanism] [] [] Switching scene to 'calibration'.
+01-11-2024 10:11:43 INFO    [calibration] [] [] calibration scene started.
+01-11-2024 10:11:45 INFO    [chooseMechanism] [] [] chooseMechanism scene started.
+01-11-2024 10:11:49 INFO    [chooseMechanism] [] [] Selected 'HOC'.
+01-11-2024 10:11:50 INFO    [chooseMechanism] [] [] Switching scene to 'calibration'.
+01-11-2024 10:11:51 INFO    [calibration] [] [] calibration scene started.
+01-11-2024 10:11:54 INFO    [chooseMechanism] [] [] chooseMechanism scene started.
+01-11-2024 10:11:59 INFO    [chooseMechanism] [] [] Selected 'WURD'.
+01-11-2024 10:12:00 INFO    [chooseMechanism] [] [] Switching scene to 'calibration'.
+01-11-2024 10:12:01 INFO    [calibration] [] [] calibration scene started.
+01-11-2024 10:12:03 INFO    [chooseMechanism] [] [] chooseMechanism scene started.
+01-11-2024 10:12:09 INFO    [chooseMechanism] [] [] Selected 'FME1'.
+01-11-2024 10:12:10 INFO    [chooseMechanism] [] [] Switching scene to 'calibration'.
+01-11-2024 10:12:11 INFO    [calibration] [] [] calibration scene started.
+01-11-2024 10:12:13 INFO    [chooseMechanism] [] [] chooseMechanism scene started.
+01-11-2024 10:12:18 INFO    [chooseMechanism] [] [] Selected 'FPS'.
+01-11-2024 10:12:19 INFO    [chooseMechanism] [] [] Switching scene to 'calibration'.
+01-11-2024 10:12:20 INFO    [calibration] [] [] calibration scene started.
+01-11-2024 10:12:23 INFO    [chooseMechanism] [] [] chooseMechanism scene started.
+01-11-2024 10:12:28 INFO    [chooseMechanism] [] [] Selected 'FME2'.
+01-11-2024 10:12:29 INFO    [chooseMechanism] [] [] Switching scene to 'calibration'.
+01-11-2024 10:12:30 INFO    [calibration] [] [] calibration scene started.
+01-11-2024 10:12:32 INFO    [chooseMechanism] [] [] chooseMechanism scene started.
+01-11-2024 10:12:35 INFO    [chooseMechanism] [] [] Selected 'WFE'.
+01-11-2024 10:12:37 INFO    [chooseMechanism] [] [] Switching scene to 'calibration'.
+01-11-2024 10:12:37 INFO    [calibration] [] [] calibration scene started.
+01-11-2024 10:12:40 INFO    [chooseMechanism] [] [] chooseMechanism scene started.
+01-11-2024 10:12:42 INFO    [chooseMechanism] [] [] Selected 'WURD'.
+01-11-2024 10:12:44 INFO    [chooseMechanism] [] [] Switching scene to 'calibration'.
+01-11-2024 10:12:45 INFO    [calibration] [] [] calibration scene started.
+01-11-2024 10:12:47 INFO    [chooseMechanism] [] [] chooseMechanism scene started.
+01-11-2024 10:12:50 INFO    [chooseMechanism] [] [] Selected 'FPS'.
+01-11-2024 10:12:52 INFO    [chooseMechanism] [] [] Switching scene to 'calibration'.
+01-11-2024 10:12:52 INFO    [calibration] [] [] calibration scene started.
+01-11-2024 10:12:55 INFO    [chooseMechanism] [] [] chooseMechanism scene started.
+01-11-2024 10:12:57 INFO    [chooseMechanism] [] [] Selected 'HOC'.
+01-11-2024 10:12:59 INFO    [chooseMechanism] [] [] Switching scene to 'calibration'.
+01-11-2024 10:13:00 INFO    [calibration] [] [] calibration scene started.
+01-11-2024 10:13:03 INFO    [chooseMechanism] [] [] chooseMechanism scene started.
+01-11-2024 10:13:05 INFO    [chooseMechanism] [] [] Selected 'FME1'.
+01-11-2024 10:13:06 INFO    [chooseMechanism] [] [] Switching scene to 'calibration'.
+01-11-2024 10:13:07 INFO    [calibration] [] [] calibration scene started.
+01-11-2024 10:13:09 INFO    [chooseMechanism] [] [] chooseMechanism scene started.
+01-11-2024 10:13:12 INFO    [chooseMechanism] [] [] Selected 'FME2'.
+01-11-2024 10:13:12 INFO    [chooseMechanism] [] [] Switching scene to 'calibration'.
+01-11-2024 10:13:13 INFO    [calibration] [] [] calibration scene started.
+01-11-2024 10:13:15 INFO    [chooseMechanism] [] [] chooseMechanism scene started.
+01-11-2024 10:13:23 INFO    [chooseMechanism] [] [] Selected 'FPS'.
+01-11-2024 10:13:23 INFO    [chooseMechanism] [] [] Selected 'FPS'.
+01-11-2024 10:13:25 INFO    [chooseMechanism] [] [] Switching scene to 'calibration'.
+01-11-2024 10:13:26 INFO    [calibration] [] [] calibration scene started.
+01-11-2024 10:13:28 INFO    [chooseMechanism] [] [] chooseMechanism scene started.
+01-11-2024 10:13:32 INFO    [chooseMechanism] [] [] Selected 'HOC'.
+01-11-2024 10:13:33 INFO    [chooseMechanism] [] [] Switching scene to 'calibration'.
+01-11-2024 10:13:34 INFO    [calibration] [] [] calibration scene started.
+01-11-2024 10:13:37 INFO    [chooseMechanism] [] [] chooseMechanism scene started.
+01-11-2024 10:13:44 INFO    [chooseMechanism] [] [] Selected 'WFE'.
+01-11-2024 10:13:44 INFO    [chooseMechanism] [] [] Selected 'WFE'.
+01-11-2024 10:13:46 INFO    [chooseMechanism] [] [] Switching scene to 'calibration'.
+01-11-2024 10:13:46 INFO    [calibration] [] [] calibration scene started.
+01-11-2024 10:13:48 INFO    [chooseMechanism] [] [] chooseMechanism scene started.
+01-11-2024 10:13:52 INFO    [chooseMechanism] [] [] Selected 'HOC'.
+01-11-2024 10:13:53 INFO    [chooseMechanism] [] [] Switching scene to 'calibration'.
+01-11-2024 10:13:54 INFO    [calibration] [] [] calibration scene started.
+01-11-2024 10:14:00 INFO    [choosegame] [] [] choosegame scene started.
+01-11-2024 10:14:05 INFO    [choosegame] [] [] Selected game 'pingPong'.
+01-11-2024 10:14:14 INFO    [choosegame] [] [] Selected game 'HOC'.
+01-11-2024 10:14:19 INFO    [chooseMechanism] [] [] chooseMechanism scene started.
