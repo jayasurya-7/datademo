@@ -1,0 +1,17 @@
+SessionNumber,DateTime,Device,Assessment,StartTime,StopTime,GameName,TrialDataFileLocation,DeviceSetupLocation,AssistMode,AssistModeParameters,GameParameter,Duration,Date,SessionDuration
+1,12-07-2024 14:35:25,R2,0,2024-07-12 14:35:25,2024-07-12 14:36:02,SPACESHOOTER,..\Assets\Patient_Data\7\12-07-2024\spaceshooter\space_12072024_143525.csv,Null,Null,Null,||0.5,37.0,12-07-2024,37.0
+2,12-07-2024 14:41:17,R2,1,2024-07-12 14:41:17,2024-07-12 14:41:24,ASSESSMENT,..\Assets\Patient_Data\7\12-07-2024\assessment_Data\assessment_12072024_144117.csv,Null,Null,Null,Null,7.0,12-07-2024,125.0
+2,12-07-2024 14:41:27,R2,1,2024-07-12 14:41:27,2024-07-12 14:41:30,CALIBRATION,..\Assets\Patient_Data\7\12-07-2024\calibration\calibration_12072024_144127.csv,Null,Null,Null,Null,3.0,12-07-2024,125.0
+2,12-07-2024 14:41:43,R2,0,2024-07-12 14:41:43,2024-07-12 14:42:24,PING-PONG,..\Assets\Patient_Data\7\12-07-2024\Pong_Data\Pong_12072024_144143.csv,Null,Null,Null,||1||1.2,41.0,12-07-2024,125.0
+2,12-07-2024 14:42:33,R2,0,2024-07-12 14:42:33,2024-07-12 14:42:33,PING-PONG,..\Assets\Patient_Data\7\12-07-2024\Pong_Data\Pong_12072024_144233.csv,Null,Null,Null,||1||1.2,0.0,12-07-2024,125.0
+2,12-07-2024 14:43:37,R2,0,2024-07-12 14:43:38,2024-07-12 14:44:06,TUK-TUK,..\Assets\Patient_Data\7\12-07-2024\flappy_Data\FlappyGameData_12072024_144337.csv,,Null,Null,||-2,28.0,12-07-2024,125.0
+2,12-07-2024 14:53:10,R2,0,2024-07-12 14:53:10,2024-07-12 14:53:56,SPACESHOOTER,..\Assets\Patient_Data\7\12-07-2024\spaceshooter\space_12072024_145310.csv,Null,Null,Null,||0.5,46.0,12-07-2024,125.0
+3,12-07-2024 16:18:08,R2,0,2024-07-12 16:18:08,2024-07-12 16:18:37,SPACESHOOTER,..\Assets\Patient_Data\7\12-07-2024\spaceshooter\space_12072024_161808.csv,Null,Null,Null,||0.5,29.0,12-07-2024,72.0
+3,12-07-2024 16:18:42,R2,0,2024-07-12 16:18:49,2024-07-12 16:18:56,TUK-TUK,..\Assets\Patient_Data\7\12-07-2024\flappy_Data\FlappyGameData_12072024_161842.csv,,Null,Null,||-2,7.0,12-07-2024,72.0
+3,12-07-2024 16:19:03,R2,0,2024-07-12 16:19:03,2024-07-12 16:19:39,PING-PONG,..\Assets\Patient_Data\7\12-07-2024\Pong_Data\Pong_12072024_161903.csv,Null,Null,Null,||1||1.2,36.0,12-07-2024,72.0
+4,17-07-2024 09:54:14,R2,1,2024-07-17 09:54:14,2024-07-17 09:55:05,ASSESSMENT,..\Assets\Patient_Data\7\17-07-2024\assessment_Data\assessment_17072024_095414.csv,Null,Null,Null,Null,51.0,17-07-2024,51.0
+5,17-07-2024 09:55:26,R2,1,2024-07-17 09:55:26,2024-07-17 09:55:45,CALIBRATION,..\Assets\Patient_Data\7\17-07-2024\calibration\calibration_17072024_095526.csv,Null,Null,Null,Null,19.0,17-07-2024,266.0
+5,17-07-2024 09:55:47,R2,1,2024-07-17 09:55:47,2024-07-17 09:57:36,ASSESSMENT,..\Assets\Patient_Data\7\17-07-2024\assessment_Data\assessment_17072024_095547.csv,Null,Null,Null,Null,109.0,17-07-2024,266.0
+5,17-07-2024 09:57:40,R2,0,2024-07-17 09:57:40,2024-07-17 09:58:42,SPACESHOOTER,..\Assets\Patient_Data\7\17-07-2024\spaceshooter\space_17072024_095740.csv,Null,Null,Null,||0.5||0.3,62.0,17-07-2024,266.0
+5,17-07-2024 09:58:45,R2,0,2024-07-17 09:58:48,2024-07-17 09:59:17,TUK-TUK,..\Assets\Patient_Data\7\17-07-2024\flappy_Data\FlappyGameData_17072024_095845.csv,,Null,Null,||-2,29.0,17-07-2024,266.0
+5,17-07-2024 09:59:26,R2,0,2024-07-17 09:59:26,2024-07-17 10:00:13,PING-PONG,..\Assets\Patient_Data\7\17-07-2024\Pong_Data\Pong_17072024_095926.csv,Null,Null,Null,||1||1.2,47.0,17-07-2024,266.0

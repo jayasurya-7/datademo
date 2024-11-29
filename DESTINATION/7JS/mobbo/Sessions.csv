@@ -1,0 +1,20 @@
+SessionNumber,DateTime,Device,Assessment,StartTime,StopTime,GameName,TrialDataFileLocation,DeviceSetupLocation,AssistMode,AssistModeParameters,GameParameter,Duration,Date,SessionDuration
+1,28-08-2024 11:41:44,Mobbo,1,2024-08-28 11:41:44,2024-08-28 11:42:11,Assesment,D:\mobbo1\w_mobbo\w_mobbo\data\Trail_data7JS\SessionD2024-08-28_T11-41-19\assessment\min_max_dist.csv,Null,Null,Null,YourGameParameter,27.0,28-08-2024,77.0
+1,28-08-2024 11:42:20,Mobbo,0,2024-08-28 11:42:20,2024-08-28 11:42:35,Flappy bird,filelocation,Null,Null,Null,YourGameParameter,15.0,28-08-2024,77.0
+1,28-08-2024 11:42:46,Mobbo,0,2024-08-28 11:42:46,2024-08-28 11:42:59,ping-pong,D:\mobbo1\w_mobbo\w_mobbo\data\Trail_data7JS\SessionD2024-08-28_T11-41-19\Gamedata\pingpong.gamedata\ping game_data.csv,Null,Null,Null,YourGameParameter,13.0,28-08-2024,77.0
+1,28-08-2024 11:43:07,MOBBO,0,2024-08-28 11:43:25,2024-08-28 11:43:25,Space-Shooter,D:\mobbo1\w_mobbo\w_mobbo\data\Trail_data7JS\SessionD2024-08-28_T11-41-19\Gamedata\Space.gamedata\game_data.csv,Null,Null,Null,YourGameParameter,0.0,28-08-2024,77.0
+1,28-08-2024 11:43:32,Mobbo,0,2024-08-28 11:43:32,2024-08-28 11:43:43,ping-pong,D:\mobbo1\w_mobbo\w_mobbo\data\Trail_data7JS\SessionD2024-08-28_T11-41-19\Gamedata\pingpong.gamedata\ping game_data.csv,Null,Null,Null,YourGameParameter,11.0,28-08-2024,77.0
+1,28-08-2024 11:43:50,MOBBO,0,2024-08-28 11:43:50,2024-08-28 11:44:01,Coin Collector,filelocation,Null,Null,Null,YourGameParameter,11.0,28-08-2024,77.0
+2,28-08-2024 11:45:16,Mobbo,1,2024-08-28 11:45:16,2024-08-28 11:46:02,Assesment,D:\mobbo1\w_mobbo\w_mobbo\data\Trail_data7JS\SessionD2024-08-28_T11-44-51\assessment\min_max_dist.csv,Null,Null,Null,YourGameParameter,46.0,28-08-2024,93.0
+2,28-08-2024 11:46:07,Mobbo,0,2024-08-28 11:46:07,2024-08-28 11:46:25,ping-pong,D:\mobbo1\w_mobbo\w_mobbo\data\Trail_data7JS\SessionD2024-08-28_T11-44-51\Gamedata\pingpong.gamedata\ping game_data.csv,Null,Null,Null,YourGameParameter,18.0,28-08-2024,93.0
+2,28-08-2024 11:46:31,MOBBO,0,2024-08-28 11:46:31,2024-08-28 11:46:40,Coin Collector,filelocation,Null,Null,Null,YourGameParameter,9.0,28-08-2024,93.0
+2,28-08-2024 11:46:47,Mobbo,0,2024-08-28 11:46:47,2024-08-28 11:46:54,Flappy bird,filelocation,Null,Null,Null,YourGameParameter,7.0,28-08-2024,93.0
+2,28-08-2024 11:47:05,MOBBO,0,2024-08-28 11:47:05,2024-08-28 11:47:12,Coin Collector,filelocation,Null,Null,Null,YourGameParameter,7.0,28-08-2024,93.0
+2,28-08-2024 11:47:18,MOBBO,0,2024-08-28 11:47:46,2024-08-28 11:47:46,Space-Shooter,D:\mobbo1\w_mobbo\w_mobbo\data\Trail_data7JS\SessionD2024-08-28_T11-44-51\Gamedata\Space.gamedata\game_data.csv,Null,Null,Null,YourGameParameter,0.0,28-08-2024,93.0
+2,28-08-2024 11:47:53,MOBBO,0,2024-08-28 11:47:53,2024-08-28 11:47:59,Coin Collector,filelocation,Null,Null,Null,YourGameParameter,6.0,28-08-2024,93.0
+3,29-08-2024 12:01:19,MOBBO,0,2024-08-29 12:01:19,2024-08-29 12:01:24,Coin Collector,filelocation,Null,Null,Null,YourGameParameter,5.0,29-08-2024,58.0
+3,29-08-2024 12:01:30,MOBBO,0,2024-08-29 12:01:30,2024-08-29 12:01:40,Space-Shooter,D:\mobbo1\w_mobbo\w_mobbo\data\Trail_data7JS\SessionD2024-08-29_T12-00-52\Gamedata\Space.gamedata\game_data.csv,Null,Null,Null,YourGameParameter,10.0,29-08-2024,58.0
+3,29-08-2024 12:01:48,Mobbo,0,2024-08-29 12:01:48,2024-08-29 12:02:05,Flappy bird,filelocation,Null,Null,Null,YourGameParameter,17.0,29-08-2024,58.0
+3,29-08-2024 12:03:25,Mobbo,0,2024-08-29 12:03:25,2024-08-29 12:03:35,Flappy bird,filelocation,Null,Null,Null,YourGameParameter,10.0,29-08-2024,58.0
+3,29-08-2024 12:03:59,MOBBO,0,2024-08-29 12:03:59,2024-08-29 12:04:05,Coin Collector,filelocation,Null,Null,Null,YourGameParameter,6.0,29-08-2024,58.0
+3,29-08-2024 12:04:09,MOBBO,0,2024-08-29 12:04:09,2024-08-29 12:04:19,Space-Shooter,D:\mobbo1\w_mobbo\w_mobbo\data\Trail_data7JS\SessionD2024-08-29_T12-00-52\Gamedata\Space.gamedata\game_data.csv,Null,Null,Null,YourGameParameter,10.0,29-08-2024,58.0
